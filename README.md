@@ -88,7 +88,7 @@ This project requires the following dependencies:
 ✅Trackableobject.py
 
 
-
+---
 
 
 # How to Install and Run the Project <img src="https://user-images.githubusercontent.com/72274851/222215440-158ffdc1-8a23-4c7f-81c2-44e864d6d043.png" width="60" height="60"> 
@@ -114,7 +114,16 @@ The user has to enter the floor he/she has to reach and it will show the most ef
 
 Please Note:Sometimes there can be an error while using jupyter notebook therefore a file named "Run.py" is attached so that the project can be executed through the same.
 
+---
 
+## 🤝 **Contributors**  
+👤 **Prajwal Surya Prakash**  
+📩 [prajwalsuryaprakash@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/prajwal-surya-prakash-7bb980246/) | 🌐 [GitHub](https://github.com/PrajwalSuryaPrakash)  
+
+---
+
+⭐ **Like this project?** Star it & share it! 🚀  
 
 
 
